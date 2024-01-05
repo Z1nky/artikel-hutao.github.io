@@ -47,7 +47,7 @@ table {
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #D8D9DA;
-    background-image: url('gambar/bghutao.png');
+    background-image: url('../gambar/bghutao.png');
     background-position: -370px -500px;
 }
 
@@ -72,7 +72,7 @@ body{
 .chibi{
     width: 200px;
     height: 200px;
-    background-image: url('gambar/hutao.png');
+    background-image: url('../gambar/hutao.png');
     display: inline-block;
     text-indent: -9999px;
     position: absolute;
@@ -110,7 +110,7 @@ body{
 
 .hero{
     height: 400px;
-    background-image: url('gambar/hutaobg.jpg');
+    background-image: url('../gambar/hutaobg.jpg');
     background-size: cover;
     background-position: 0 -120px;
     border-top: 4px solid #FF3F00;
